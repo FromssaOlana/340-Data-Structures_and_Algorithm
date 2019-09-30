@@ -1,5 +1,6 @@
 # 340-Data-Structures_and_Algorithm
 Class project P3.
+
 BACKGROUND
 Amazonian Delivery Services is piloting a drone delivery service in a specified region of the country. 
 To avoid conflicts with other air traffic the FAA has restricted drone flights to defined pathways between designated way-points. 
